@@ -10,3 +10,6 @@ Created By Faraaz Ahmad
 
 ## Note
 This project use Rest API from FaraazAPI ( farzain.xyz )
+
+## Demo
+http://blog.farzain.xyz/tools/instagram/
